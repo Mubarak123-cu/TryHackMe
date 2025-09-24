@@ -26,7 +26,8 @@ I investigated all alerts generated during the exercise and produced a consolida
 
 ## Tools & Techniques
 - TryHackMe lab environment  
-- Alert/log review and correlation  
+- Alert/log review and correlation
+- Splunk  
 - Timeline reconstruction  
 - Forensic review of exported artifacts  
 - PDF report writing  
@@ -34,4 +35,4 @@ I investigated all alerts generated during the exercise and produced a consolida
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<this-repo>.git
+   git clone https://github.com/<Mubarak123-cu>/<TryHackMe>.git
